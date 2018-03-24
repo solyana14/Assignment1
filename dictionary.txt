@@ -1,0 +1,2 @@
+this is a simple dictionary that 
+uses the Event Driven architectural pattern
